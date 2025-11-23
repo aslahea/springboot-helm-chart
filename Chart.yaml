@@ -1,6 +1,6 @@
 apiVersion: v2
-name: my-maven-app
-description: A Helm chart for my maven project
+name: springboot-helm-chart
+description: A Helm chart for my springboot project
 type: application
 version: 0.1.0
 appVersion: "1.0.0"
